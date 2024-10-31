@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=ffffff&height=300&section=header&text=ABOUT%20ME&fontSize=90" />
 </div>
 
-<br>
-
 <h3 align="center">🌱 Git Status 🌱</h3>
-<br>
 
 ![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true)
 
@@ -67,8 +64,6 @@
       src="https://img.shields.io/badge/bycksan1104@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=green"/>&nbsp
   </a>
 </div>
-
-<br>
 <!--
 **moveonha/moveonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
