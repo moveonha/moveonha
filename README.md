@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=ffffff&height=300&section=header&text=ABOUT%20ME&fontSize=90" />
 </div>
 
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</div>
-<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
