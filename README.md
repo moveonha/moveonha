@@ -17,7 +17,7 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-ECD53F.svg?style=for-the-badge&logo=python&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/C++-00500C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=black" />&nbsp
