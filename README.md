@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="제목 없음.gif" />
+  <img src="--unscreen.gif" />
 </div>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
