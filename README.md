@@ -4,9 +4,14 @@
 </div>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
-
-![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true)
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moveonha" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moveonha&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 <br>
 
 <!--내용 부분-->
