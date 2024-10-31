@@ -5,8 +5,7 @@
 
 <br>
 <div align="center">
-  ![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</div>
 <br>
 
 <!--내용 부분-->
