@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="--unscreen (online-video-cutter.com).mp4" />
+  <img src="--unscreen (online-video-cutter.com).gif" />
 </div>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
