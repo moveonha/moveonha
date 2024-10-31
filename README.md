@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=ffffff&height=300&section=header&text=ABOUT%20ME&fontSize=90" />
 </div>
 
+  ![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true&theme=radical)
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -60,10 +62,6 @@
       src="https://img.shields.io/badge/bycksan1104@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=green"/>&nbsp
   </a>
 </div>
-
-<br>
-
-  ![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true&theme=radical)
 
 <br>
 <!--
