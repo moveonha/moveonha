@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=python&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/42-00babc.svg?style=for-the-badge&logo=42&logoColor=black" />&nbsp
 <br>
 
