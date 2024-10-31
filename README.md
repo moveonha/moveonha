@@ -60,7 +60,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://instagram.com/moveon.zip" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
    </a>
   <a href="mailto:bycksan1104@naver.com">
     <img
