@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=141321&height=300&section=header&text=ABOUT%20ME&fontSize=90&fontColor=fe428e" />
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=141321&height=300&section=header&text=ABOUT%20ME&fontSize=90&fontColor=fe428e&desc=Desc&descSize=30" />
 </div>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
