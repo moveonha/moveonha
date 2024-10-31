@@ -6,7 +6,7 @@
 <br>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
-![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true&descAlign=20)
+![Moveonha's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveonha&show_icons=true)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
