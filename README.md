@@ -12,6 +12,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moveonha&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
 </div>
+<br>
 <div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=moveonha&theme=rogue&bg_color=141321&hide_border=false&radius=6&line=a9fef7&color=58A6FF&title_color=fe428e&point=fe428e" width=95%/>
