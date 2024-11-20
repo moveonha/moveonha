@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/flutter?style=for-the-badge&logo=flutter&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/dart?style=for-the-badge&logo=dart&logoColor=black" />&nbsp
+
 
 </div>
 
