@@ -32,13 +32,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/42-00babc.svg?style=for-the-badge&logo=42&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/flutter?style=for-the-badge&logo=flutter&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black" />&nbsp
 <br>
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/supabase?style=for-the-badge&logo=supabase&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />&nbsp
 
 
 <h3 align="center">📚 Studying 📚</h3>
