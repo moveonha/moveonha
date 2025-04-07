@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/42-00babc.svg?style=for-the-badge&logo=42&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Djing-1A1928.svg?style=for-the-badge&logo=pioneerdj&logoColor=black" />&nbsp
 
 <br>
 
@@ -49,7 +50,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Djing-1A1928.svg?style=for-the-badge&logo=pioneerdj&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
 
 </div>
 
