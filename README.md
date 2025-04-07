@@ -54,6 +54,9 @@
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=black" />&nbsp
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
