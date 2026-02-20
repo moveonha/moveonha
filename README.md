@@ -43,6 +43,13 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=black" />&nbsp
 
+  </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp
+
+  </div>
 
 
 <h3 align="center">📚 Studying 📚</h3>
