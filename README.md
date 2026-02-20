@@ -46,8 +46,8 @@
   </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-02569B?style=for-the-badge&logo=react&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-0175C2?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp
+ <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+ <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
 
   </div>
 
@@ -55,9 +55,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
 
 </div>
 
