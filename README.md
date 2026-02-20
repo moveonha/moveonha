@@ -46,8 +46,8 @@
   </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=react&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/react-02569B?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-0175C2?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp
 
   </div>
 
