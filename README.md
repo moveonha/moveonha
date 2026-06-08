@@ -3,10 +3,15 @@
   <img src="--unscreen.gif" />
 </div>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/moveonha/svg)](https://tokscale.ai/u/moveonha)
-![](https://tokscale.ai/api/embed/moveonha/svg?template=orbit&color=pink&rank=percent)
-![](https://tokscale.ai/api/badge/moveonha/svg?metric=rank&sort=cost&style=flat-square)
+<p align="center">
+  <a href="https://tokscale.ai/u/moveonha">
+    <img src="https://tokscale.ai/api/embed/moveonha/svg" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://tokscale.ai/api/embed/moveonha/svg?template=orbit&color=pink&rank=percent" />
+</p>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
 <div align="center">
