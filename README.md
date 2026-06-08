@@ -3,9 +3,7 @@
   <img src="--unscreen.gif" />
 </div>
 
-<div align="center">
 [![Tokscale Stats](https://tokscale.ai/api/embed/moveonha/svg)](https://tokscale.ai/u/moveonha)
-</div>
 
 <h3 align="center">🌱 Git Status 🌱</h3>
 <div align="center">
