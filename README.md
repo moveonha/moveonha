@@ -3,6 +3,7 @@
   <img src="--unscreen.gif" />
 </div>
 
+<h3 align="center">🤖 Tokscale Stat 🤖</h3>
 <p align="center">
   <a href="https://tokscale.ai/u/moveonha">
     <img src="https://tokscale.ai/api/embed/moveonha/svg" />
