@@ -3,6 +3,8 @@
   <img src="--unscreen.gif" />
 </div>
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/alpoxdev/svg)](https://tokscale.ai/u/moveonha)
+
 <h3 align="center">🌱 Git Status 🌱</h3>
 <div align="center">
 </div>
