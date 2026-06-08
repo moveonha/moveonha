@@ -5,6 +5,7 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/moveonha/svg)](https://tokscale.ai/u/moveonha)
 ![](https://tokscale.ai/api/embed/moveonha/svg?template=orbit&color=pink&rank=percent)
+![](https://tokscale.ai/api/badge/moveonha/svg?metric=rank&sort=cost&style=flat-square)
 
 
 <h3 align="center">🌱 Git Status 🌱</h3>
