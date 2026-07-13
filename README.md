@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://tokscale.ai/api/embed/moveonha/svg?template=orbit&color=pink&rank=percent" />
-</p>
+
 
 <h3 align="center">🌱 Git Status 🌱</h3>
 <div align="center">
