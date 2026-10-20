@@ -13,15 +13,18 @@
 
 
 <h3 align="center">🌱 Git Status 🌱</h3>
-<div align="center">
-</div>
-<div align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=moveonha&theme=rogue&bg_color=141321&hide_border=false&radius=6&line=a9fef7&color=58A6FF&title_color=fe428e&point=fe428e" width=95%/>
-</a>
-</div>
-<br>
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=moveonha&amp;theme=rogue&amp;bg_color=141321&amp;hide_border=false&amp;radius=6&amp;line=a9fef7&amp;color=58A6FF&amp;title_color=fe428e&amp;point=fe428e"
+      alt="moveonha GitHub Activity Graph"
+      width="95%"
+    />
+  </a>
+</p>
+
+<br />
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
